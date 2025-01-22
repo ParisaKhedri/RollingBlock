@@ -1,0 +1,69 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta files
+/[Aa]ssets/**/*.meta
+
+# User-specific settings
+/[Uu]ser[Ss]ettings/
+
+# Crash reports
+/[Cc]rash[Rr]eports/
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Visual Studio and Rider files
+.vscode/
+.vscode/*
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.user
+*.suo
+*.booproj
+*.svd
+*.tmp
+*.userprefs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+/Build/
+*.apk
+*.unitypackage
+*.aab
+
+# JetBrains Rider
+.idea/
+.idea/*
+
+# Auto-generated JetBrains Rider Plugin
+*.Rider*
+
+# Unity cache directory
+/[Cc]ache/
+
+# Collaborate and Unity Cloud files
+/[Cc]ollab/
+
+# Gradle temporary files
+.gradle/
+
+# Android Studio artifacts
+*.iml
+.gradle/
+local.properties
